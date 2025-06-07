@@ -13,13 +13,16 @@ This system allows patients to register and schedule appointments, while doctors
 
 🎨 Clean, responsive HTML/CSS user interface
 
-🛠️ Technologies Used
-Tech	Purpose
-PHP	Backend logic
-MySQL	Database via phpMyAdmin
-HTML/CSS	Frontend layout
-XAMPP	Local server environment
-VS Code	Code editor
+## 🛠️ Technologies Used
+
+| Tech    | Purpose                 |
+|---------|-------------------------|
+| PHP     | Backend logic           |
+| MySQL   | Database via phpMyAdmin |
+| HTML/CSS| Frontend layout         |
+| XAMPP   | Local server environment|
+| VS Code | Code editor             |
+
 
 Hospital Management System
 A simple Hospital Management System built with PHP, MySQL, and XAMPP.
@@ -48,9 +51,7 @@ Both services should show green indicators once running
 3. Clone or Download this repository
 Open Git Bash or your terminal and run:
 
-bash
-Copy
-Edit
+
 git clone https://github.com/shreeshskatti/hospital_management_system.git
 
 4. Place the project files
@@ -78,22 +79,23 @@ Usually found at config/config.php or includes/db.php
 
 Edit the database credentials as follows (adjust if you changed your database name or MySQL credentials):
 
-php
-Copy
+
 Edit
 $servername = "localhost";
+
 $username = "root";
+
 $password = "";
+
 $dbname = "hospital_db"; // the name of the database you imported
+
 Save the changes
 
 7. Run the project
 Open your browser and visit:
 
-arduino
-Copy
-Edit
 http://localhost/hospital_management_system/
+
 You should now be able to access the Hospital Management System interface
 
 ## 📁 Project Structure
