@@ -1,5 +1,3 @@
-:
-
 🏥 Hospital Management System
 A web-based Hospital Management System built using PHP, MySQL, HTML/CSS, and XAMPP.
 This system allows patients to register and schedule appointments, while doctors or admins can view and manage those appointments via a web interface.
@@ -54,6 +52,7 @@ bash
 Copy
 Edit
 git clone https://github.com/shreeshskatti/hospital_management_system.git
+
 4. Place the project files
 Move or copy the cloned hospital_management_system folder into your XAMPP htdocs directory
 
