@@ -1,0 +1,218 @@
+Folder PATH listing for volume Windows
+Volume serial number is A4AC-9906
+C:.
+�   filelist.txt
+�   hospital_management_system.sql
+�   index.php
+�   login.php
+�   logout.php
+�   readme.md
+�   
++---.history
+�   �   index_20250529194133.php
+�   �   index_20250529194523.php
+�   �   index_20250529194524.php
+�   �   index_20250529204948.php
+�   �   index_20250529212118.php
+�   �   index_20250529212604.php
+�   �   index_20250529212605.php
+�   �   index_20250529212856.php
+�   �   index_20250529212857.php
+�   �   index_20250529215031.php
+�   �   index_20250529215032.php
+�   �   index_20250529215316.php
+�   �   index_20250529221518.php
+�   �   readme_20250529194257.md
+�   �   readme_20250607202531.md
+�   �   readme_20250607202532.md
+�   �   
+�   +---appointments
+�   �       book_appointments_20250529193852.php
+�   �       book_appointments_20250529194657.php
+�   �       book_appointments_20250529194658.php
+�   �       book_appointment_20250529194656.php
+�   �       book_appointment_20250529200722.php
+�   �       book_appointment_20250529201406.php
+�   �       book_appointment_20250529201629.php
+�   �       book_appointment_20250529201800.php
+�   �       book_appointment_20250529203346.php
+�   �       book_appointment_20250529203347.php
+�   �       book_appointment_20250529205023.php
+�   �       view_appointments_20250529193910.php
+�   �       view_appointments_20250529194711.php
+�   �       view_appointments_20250529194712.php
+�   �       view_appointments_20250529201008.php
+�   �       view_appointments_20250529201009.php
+�   �       view_appointments_20250529201357.php
+�   �       view_appointments_20250529205026.php
+�   �       
+�   +---bills
+�   �       add_bill_20250529195033.php
+�   �       add_bill_20250529195039.php
+�   �       add_bill_20250529195040.php
+�   �       add_bill_20250529205029.php
+�   �       add_bill_20250529215457.php
+�   �       add_bill_20250529215728.php
+�   �       add_bill_20250529215752.php
+�   �       add_bill_20250529215753.php
+�   �       add_bill_20250529215902.php
+�   �       add_bill_20250529215903.php
+�   �       add_bill_20250529220025.php
+�   �       view_bills_20250529194014.php
+�   �       view_bills_20250529194958.php
+�   �       view_bills_20250529203808.php
+�   �       view_bills_20250529203933.php
+�   �       view_bills_20250529205032.php
+�   �       
+�   +---css
+�   �       style_20250529193428.css
+�   �       style_20250529194508.css
+�   �       style_20250529194509.css
+�   �       style_20250529205036.css
+�   �       style_20250529205956.css
+�   �       style_20250529210652.css
+�   �       style_20250529210713.css
+�   �       style_20250529210714.css
+�   �       style_20250529221952.css
+�   �       style_20250529221953.css
+�   �       
+�   +---doctors
+�   �       add_doctor_20250529193806.php
+�   �       add_doctor_20250529202922.php
+�   �       add_doctor_20250529202923.php
+�   �       add_doctor_20250529203044.php
+�   �       add_doctor_20250529205040.php
+�   �       add_doctor_20250530112440.php
+�   �       view_doctors_20250529194839.php
+�   �       view_doctors_20250529194853.php
+�   �       view_doctors_20250529202610.php
+�   �       view_doctors_20250529202611.php
+�   �       view_doctors_20250529202755.php
+�   �       
+�   +---includes
+�   �       db_20250529193530.php
+�   �       db_20250529194446.php
+�   �       db_20250529201847.php
+�   �       db_20250529201848.php
+�   �       db_20250530111437.php
+�   �       db_20250530112145.php
+�   �       db_20250530112151.php
+�   �       db_20250530112152.php
+�   �       db_20250530112153.php
+�   �       footer_20250529193549.php
+�   �       footer_20250529195211.php
+�   �       header_20250529193541.php
+�   �       header_20250529195153.php
+�   �       header_20250529195154.php
+�   �       
+�   +---medical_records
+�   �       add_record_20250529193937.php
+�   �       add_record_20250529194906.php
+�   �       add_record_20250529214027.php
+�   �       add_record_20250529214028.php
+�   �       add_record_20250529214108.php
+�   �       add_record_20250529214109.php
+�   �       add_record_20250529214906.php
+�   �       add_record_20250530112838.php
+�   �       add_record_20250530112848.php
+�   �       add_record_20250530113009.php
+�   �       view_records_20250529193952.php
+�   �       view_records_20250529194918.php
+�   �       view_records_20250529203624.php
+�   �       view_records_20250529203625.php
+�   �       view_records_20250529214215.php
+�   �       
+�   +---patients
+�   �       add_patients_20250529193713.php
+�   �       add_patients_20250529194539.php
+�   �       add_patients_20250529194558.php
+�   �       add_patients_20250529194559.php
+�   �       add_patients_20250529195515.php
+�   �       add_patients_20250529195516.php
+�   �       add_patient_20250529195515.php
+�   �       add_patient_20250529195756.php
+�   �       add_patient_20250529200302.php
+�   �       add_patient_20250529200303.php
+�   �       add_patient_20250529201422.php
+�   �       add_patient_20250529205351.php
+�   �       add_patient_20250529205413.php
+�   �       add_patient_20250529205722.php
+�   �       delete_patient_20250529221721.php
+�   �       delete_patient_20250529221843.php
+�   �       patients_list_20250529211821.php
+�   �       patients_list_20250529211828.php
+�   �       patients_list_20250529211829.php
+�   �       patients_list_20250529212501.php
+�   �       view_patients_20250529193724.php
+�   �       view_patients_20250529194635.php
+�   �       view_patients_20250529202316.php
+�   �       view_patients_20250529202412.php
+�   �       view_patient_20250529202411.php
+�   �       view_patient_20250529211154.php
+�   �       view_treatments_20250529211852.php
+�   �       view_treatments_20250529211856.php
+�   �       view_treatments_20250529212732.php
+�   �       
+�   +---rooms
+�   �       add_rooms_20250530121150.php
+�   �       add_rooms_20250530121234.php
+�   �       add_rooms_20250530121235.php
+�   �       view_rooms_20250529194042.php
+�   �       view_rooms_20250529195050.php
+�   �       view_rooms_20250529220158.php
+�   �       view_rooms_20250529220259.php
+�   �       view_rooms_20250529220300.php
+�   �       view_rooms_20250530121123.php
+�   �       view_rooms_20250530121124.php
+�   �       
+�   +---treatments
+�           view_treatments_20250529211855.php
+�           view_treatments_20250529212449.php
+�           
++---appointments
+�       book_appointment.php
+�       view_appointments.php
+�       
++---bills
+�       add_bill.php
+�       view_bills.php
+�       
++---css
+�       style.css
+�       
++---doctors
+�       add_doctor.php
+�       view_doctors.php
+�       
++---images
+�       doctor-illustration.png
+�       
++---includes
+�       db.php
+�       footer.php
+�       header.php
+�       
++---js
+�       scripts.js
+�       
++---medical_records
+�       add_record.php
+�       view_records.php
+�       
++---patients
+�       add_patient.php
+�       delete_patient.php
+�       edit_patients.php
+�       patients_list.php
+�       view_patients.php
+�       view_treatments.php
+�       
++---rooms
+�       add_rooms.php
+�       view_rooms.php
+�       
++---staff
+�       add_staff.php
+�       view_staff.php
+�       
++---treatments

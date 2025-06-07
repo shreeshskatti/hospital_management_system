@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Open+Sans&display=swap');
+
+body {
+  background-color: #F9F6F1;
+  font-family: 'Open Sans', sans-serif;
+  color: #2E2E2E;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3 {
+  font-family: 'Merriweather', serif;
+  color: #1A1F71;
+}
+
+.container {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 30px;
+  background-color: white;
+  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+  border-radius: 12px;
+}
+
+button {
+  background-color: #1A1F71;
+  color: #F9F6F1;
+  border: none;
+  padding: 12px 24px;
+  font-size: 16px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #C9B037;
+  color: #1A1F71;
+}
+
+input, select {
+  width: 100%;
+  padding: 10px;
+  margin-top: 8px;
+  margin-bottom: 20px;
+  border: 1.5px solid #D3D3D3;
+  border-radius: 8px;
+  font-size: 16px;
+}
+
+input:focus, select:focus {
+  border-color: #C9B037;
+  outline: none;
+  box-shadow: 0 0 6px #C9B037;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  padding: 12px;
+  border: 1px solid #D3D3D3;
+  text-align: left;
+}
+
+thead {
+  background-color: #C9B037;
+  color: white;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #F9F6F1;
+}

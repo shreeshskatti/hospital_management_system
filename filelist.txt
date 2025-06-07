@@ -1,0 +1,55 @@
+hospital_management_system/
+│
+├── appointments/
+│   ├── book_appointment.php
+│   └── view_appointments.php
+│
+├── bills/
+│   ├── add_bill.php
+│   └── view_bills.php
+│
+├── css/
+│   └── style.css
+│
+├── doctors/
+│   ├── add_doctor.php
+│   └── view_doctors.php
+│
+├── images/
+│   └── doctor-illustration.png
+│
+├── includes/
+│   ├── db.php
+│   ├── footer.php
+│   └── header.php
+│
+├── js/
+│   └── scripts.js
+│
+├── medical_records/
+│   ├── add_record.php
+│   └── view_records.php
+│
+├── patients/
+│   ├── add_patient.php
+│   ├── delete_patient.php
+│   ├── edit_patients.php
+│   ├── patients_list.php
+│   ├── view_patients.php
+│   └── view_treatments.php
+│
+├── rooms/
+│   ├── add_rooms.php
+│   └── view_rooms.php
+│
+├── staff/
+│   ├── add_staff.php
+│   └── view_staff.php
+│
+├── treatments/
+│
+├── index.php
+├── login.php
+├── logout.php
+├── readme.md
+├── hospital_management_system.sql    (your database dump file)
