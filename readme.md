@@ -49,50 +49,46 @@ A simple Hospital Management System built with PHP, MySQL, and XAMPP.
 
 ## 📁 Project Structure
 
-hospital_management_system/
+📁 hospital_management_system/
+├── 📁 assets/
+│   ├── 📁 css/
+│   ├── 📁 js/
+│   ├── 📁 images/
 │
-├── assets/
-│   ├── css/
-│   ├── js/
-│   ├── images/
-│
-├── config/
+├── 📁 config/
 │   └── config.php
 │
-├── controllers/
+├── 📁 controllers/
 │   └── PatientController.php
 │
-├── models/
+├── 📁 models/
 │   └── Patient.php
 │
-├── views/
-│   ├── patients/
-│   ├── doctors/
-│   ├── appointments/
+├── 📁 views/
+│   ├── 📁 patients/
+│   ├── 📁 doctors/
+│   ├── 📁 appointments/
+│   ├── 📁 uploads/
+│   ├── 📁 reports/
+│   └── 📁 bills/
 │
-├── uploads/
-│   ├── reports/
-│   └── bills/
-│
-├── api/
+├── 📁 api/
 │   └── patients.php
 │
-├── includes/
+├── 📁 includes/
 │   ├── db.php
 │   ├── header.php
-│   ├── footer.php
+│   └── footer.php
 │
-├── tests/
-│
-├── docs/
-│
-├── appointments/
-├── bills/
-├── doctors/
-├── medical_records/
-├── patients/
-├── rooms/
-├── treatments/
+├── 📁 tests/
+├── 📁 docs/
+├── 📁 appointments/
+├── 📁 bills/
+├── 📁 doctors/
+├── 📁 medical_records/
+├── 📁 patients/
+├── 📁 rooms/
+├── 📁 treatments/
 │
 ├── index.php
 ├── readme.md
